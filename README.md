@@ -3,4 +3,6 @@ This work presents a novel Dictionary Learning (DL) based framework to detect Co
 
 This work is accepted to European Signal Processing Conference (EUSIPCO) 2022.
 
-We adopted Approximate KSVD from [https://github.com/nel215/ksvd](here). 
+Following are our major reference from where we adopted the codes and used in this work. 
+1. We adopted Approximate KSVD from [https://github.com/nel215/ksvd](url). 
+2. deepCR baseline model from [https://github.com/profjsb/deepCR](url).
